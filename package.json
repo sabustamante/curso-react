@@ -6,7 +6,9 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "clase2": "./node_modules/.bin/webpack-dev-server --config clase2/webpack.config.js --content-base clase2/app/dist --inline --hot",
-    "clase3": "./node_modules/.bin/webpack-dev-server --config clase3/webpack.config.js --content-base clase3/app/dist --inline --hot"
+    "clase3": "./node_modules/.bin/webpack-dev-server --config clase3/webpack.config.js --content-base clase3/app/dist --inline --hot",
+    "clase4": "./node_modules/.bin/webpack-dev-server --config clase4/webpack.config.js --content-base clase4/app/dist --inline --hot",
+    "clase5": "./node_modules/.bin/webpack-dev-server --config clase5/webpack.config.js --content-base clase5/app/dist --inline --hot"
   },
   "author": "",
   "license": "ISC",
